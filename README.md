@@ -4,24 +4,24 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms1cXN6ZndpZ3N5ZTk3b3F6ZndpZ3N5ZTk3b3F6ZndpZ3N5ZTk3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9G3ngUkfxwA0/giphy.gif" width="140" alt="Maki Zenin">
 
-# Olá, eu sou a [Seu Nome] ⚔️
+# Olá, eu sou a Kely
 *Futura Cientista da Computação | Desenvolvedora & Entusiasta de Resolução de Problemas*
 
 "Não me subestime. Eu vou voltar ainda mais forte." — *Maki Zenin*
 
 ---
 
-### 🧠 Sobre Mim
+### Sobre Mim
 
 Orientada pela lógica e apaixonada por tecnologia. Divido meu tempo entre resolver problemas complexos e criar soluções reais através do código. 
 
-* 🥇 Medalhista em Olimpíadas de Matemática
-* 🚀 Alumna do NASA Space Apps Challenge
-* 👩‍💻 Semifinalista no Technovation Girls
+* Medalhista em Olimpíadas de Matemática e Astronomia
+* Finalista do NASA Space Apps Challenge - Cosmic Wheather Tales
+* Semifinalista no Technovation Girls
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
