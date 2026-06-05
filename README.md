@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://skillicons.dev/icons?i=c,cpp,js,css&theme=dark](https://imgur.com/gallery/maki-022059p#VqQyXGW).png"/>
+<img src="https://imgur.com/gallery/maki-022059p#VqQyXGW.png"/>
 
 # Kely
 
