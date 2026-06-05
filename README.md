@@ -20,7 +20,7 @@ Estudando. Sempre estudando.
 * **Hackathons:** Finalista global no NASA Space Apps (Cosmic Weather Tales) e semifinalista no Technovation Girls.
 * **Foco atual:** Estruturas de dados em C/C++ e interfaces com JavaScript/CSS.
   
-<\p>
+</p>
 ---
 
 ### Stack
