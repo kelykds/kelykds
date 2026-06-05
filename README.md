@@ -1,6 +1,6 @@
 <div align="center">
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/022059p"  ><a href="//imgur.com/a/022059p">Maki</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="[https://skillicons.dev/icons?i=c,cpp,js,css&theme=dark](https://imgur.com/gallery/maki-022059p#VqQyXGW).gif"/>
 
 # Kely
 
@@ -23,7 +23,7 @@ Estudando. Sempre estudando.
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,css&theme=dark.png"/>
 </p>
 
 ---
