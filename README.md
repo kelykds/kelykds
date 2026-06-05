@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms1cXN6ZndpZ3N5ZTk3b3F6ZndpZ3N5ZTk3b3F6ZndpZ3N5ZTk3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9G3ngUkfxwA0/giphy.gif" width="130" alt="Maki">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms1cXN6ZndpZ3N5ZTk3b3F6ZndpZ3N5ZTk3b3F6ZndpZ3N5ZTk3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9G3ngUkfxwA0/giphy.gif](https://imgur.com/gallery/maki-022059p#VqQyXGW)" width="130" alt="Maki">
 
-# kely
-
----
-
-`ciencia da computacao` • `desenvolvimento` • `resolucao de problemas`
-
-Estudante focada em logica, algoritmos e desenvolvimento de software.
+# Kely
 
 ---
 
-### competencias e conquistas
+`Ciencia da Computacao` • `Desenvolvimento` • `Resolucao de Problemas`
+
+Estudando. Sempre estudando.
+
+---
+
+### Competências e Conquistas
 
 * **Olimpiadas:** Medalhista em Matematica e Astronomia.
 * **Hackathons:** Finalista global no NASA Space Apps (Cosmic Weather Tales) e semifinalista no Technovation Girls.
@@ -30,6 +30,10 @@ Estudante focada em logica, algoritmos e desenvolvimento de software.
 
 ### stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="135" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=kelykds&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="135" alt="Stats">
+
+---
+
+<img src=""
 
 </div>
