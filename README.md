@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms1cXN6ZndpZ3N5ZTk3b3F6ZndpZ3N5ZTk3b3F6ZndpZ3N5ZTk3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9G3ngUkfxwA0/giphy.gif](https://imgur.com/gallery/maki-022059p#VqQyXGW)" width="130" alt="Maki">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/022059p"  ><a href="//imgur.com/a/022059p">Maki</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Kely
 
@@ -20,7 +20,7 @@ Estudando. Sempre estudando.
 
 ---
 
-### stack
+### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,css&theme=dark" />
@@ -28,12 +28,9 @@ Estudando. Sempre estudando.
 
 ---
 
-### stats
+### Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=kelykds&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="135" alt="Stats">
 
----
-
-<img src=""
 
 </div>
