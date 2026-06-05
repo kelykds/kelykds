@@ -12,15 +12,15 @@ Estudando. Sempre estudando.
 
 ---
 
-<p align="left">
+
 
 ### Competências e Conquistas
 
-* **Olimpiadas:** Medalhista em Matematica e Astronomia.
-* **Hackathons:** Finalista global no NASA Space Apps (Cosmic Weather Tales) e semifinalista no Technovation Girls.
-* **Foco atual:** Estruturas de dados em C/C++ e interfaces com JavaScript/CSS.
+Medalhista em Matematica e Astronomia.
+Finalista global no NASA Space Apps (Cosmic Weather Tales) e semifinalista no Technovation Girls.
+Estruturas de dados em C/C++ e interfaces com JavaScript/CSS.
   
-</p>
+
 ---
 
 ### Stack
