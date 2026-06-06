@@ -2,8 +2,6 @@
 
 # Heya! Como vai?
 
----
-
 `Ciencia da Computacao` • `Desenvolvimento` • `Resolucao de Problemas`
 
 Estudando. Sempre estudando.
