@@ -66,16 +66,11 @@ Estudante focada em **Programação Competitiva** e **Ciência da Computação**
   <!-- Streak Stats -->
   <img height="165" src="https://streak-stats.demolab.com/?user=kelykds&theme=dark" alt="GitHub Streak" />
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelykds&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=false&border_color=333333" alt="Activity Graph" />
-</div>
 
 <br />
 
 <div align="center">
- <img src="https://ghchart.rshah.org/FFFFFF/kelykds" alt="Kely's Github Contributions" />
+ <img src="https://ghchart.rshah.org/000000/kelykds" alt="Kely's Github Contributions" />
 </div>
 
 ---
