@@ -71,7 +71,7 @@ Estudante focada em **Programação Competitiva** e **Ciência da Computação**
 <br />
 
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelykds&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=333333" alt="Activity Graph" />
+ <img src="https://raw.githubusercontent.com/kelykds/kelykds/output/github-readme-activity-graph.svg" alt="Activity Graph" />
 </div>
 
 ---
