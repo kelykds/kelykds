@@ -69,9 +69,6 @@ Estudante focada em **Programação Competitiva** e **Ciência da Computação**
 
 <br />
 
-<div align="center">
- <img src="https://ghchart.rshah.org/000000/kelykds" alt="Kely's Github Contributions" />
-</div>
 
 ---
 
