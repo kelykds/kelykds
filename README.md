@@ -1,13 +1,12 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&height=50&lines=Olá%2C+sou+a+Kely;Estudante+Ol%C3%ADmpica;Entusiasta+de+Ci%C3%Aancia+da+Computa%C3%A7%C3%A3o;C%2B%2B+%7C+Python+%7C+Algoritmos" alt="Typing Animation" />
-  </a>
+  <!-- BANNER TYPING ANIMATION -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&height=50&lines=Ol%C3%A1%2C+sou+a+Kely;Estudante+Ol%C3%ADmpica;Entusiasta+de+Ci%C3%Aancia+da+Computa%C3%A7%C3%A3o;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Algoritmos" alt="Typing Animation" />
 
-  <br />
+  <br /><br />
 
-  <a href="https://linkedin.com/in/kely-santana-455508260">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=1" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/kely-santana-455508260">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/is.meky">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -21,10 +20,10 @@
 
 ### Sobre Mim
 
-Estudante focada em **Programação Competitiva** e **Ciência da Computação**. Apaixonada pela resolução de problemas complexos, eficiência de algoritmos e estruturas de dados.
+Estudante focada em **Programação Competitiva** e **Ciência da Computação**.
 
-- **Foco atual:** Treinamento para olimpíadas de informática e resolução de problemas analíticos.
-- **Objetivo:** Aprofundar conhecimentos em teoria dos grafos, programação dinâmica e sistemas.
+- Treinamento para olimpíadas de informática e resolução de problemas analíticos.
+- Aprofundar conhecimentos em teoria dos grafos, programação dinâmica e sistemas.
 
 ---
 
@@ -61,8 +60,8 @@ Estudante focada em **Programação Competitiva** e **Ciência da Computação**
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kelykds&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" alt="Kely's GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dark&background=000000&fire=ffffff&ring=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=333333" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kelykds&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kelykds&theme=dark&background=000000&fire=ffffff&ring=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=333333" alt="GitHub Streak" />
 
 </div>
 
@@ -73,6 +72,8 @@ Estudante focada em **Programação Competitiva** e **Ciência da Computação**
 </div>
 
 ---
+
+### 🐍 Snake Contribution
 
 <div align="center">
   <picture>
