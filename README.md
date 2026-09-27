@@ -3,7 +3,7 @@
   <!-- BANNER TYPING ANIMATION -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&height=50&lines=Ol%C3%A1%2C+sou+a+Kely;Estudante+Ol%C3%ADmpica;Entusiasta+de+Ci%C3%Aancia+da+Computa%C3%A7%C3%A3o;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Algoritmos" alt="Typing Animation" />
 
-  <br /><br />
+<br />
 
   <a href="https://www.linkedin.com/in/kely-santana-455508260">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
