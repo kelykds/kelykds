@@ -60,17 +60,20 @@ Estudante focada em **Programação Competitiva** e **Ciência da Computação**
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kelykds&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kelykds&theme=dark&background=000000&fire=ffffff&ring=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&border=333333" alt="GitHub Streak" />
+  <!-- Stats alternativo sem bloqueios -->
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=kelykds&theme=dark&hide_border=false" alt="GitHub Stats" />
+  
+  <!-- Streak Stats -->
+  <img height="165" src="https://streak-stats.demolab.com/?user=kelykds&theme=dark" alt="GitHub Streak" />
 
 </div>
 
 <br />
 
 <div align="center">
+  <!-- Activity Graph via GitHub Pages oficial -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelykds&theme=react-dark" alt="Activity Graph" />
 </div>
-
 ---
 
 <div align="center">
