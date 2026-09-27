@@ -14,7 +14,9 @@ jobs:
     name: generate-activity-graph
     steps:
       - uses: actions/checkout@v4
-      - uses: Ashutosh00710/github-readme-activity-graph@v1.2.0
+      
+      # Apontando diretamente para o branch principal da action
+      - uses: Ashutosh00710/github-readme-activity-graph@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           output: dist/github-readme-activity-graph.svg
