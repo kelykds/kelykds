@@ -51,7 +51,7 @@ Estudante focada em **Programação Competitiva** e **Ciência da Computação**
 ### GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=kelykds&theme=darkhub&no-frame=true&no-reflection=true&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=kelykds&theme=flat&no-frame=true&no-reflection=true&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
