@@ -74,8 +74,6 @@ Estudante focada em **Programação Competitiva** e **Ciência da Computação**
 
 ---
 
-### 🐍 Snake Contribution
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kelykds/kelykds/output/github-contribution-grid-snake-dark.svg">
