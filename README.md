@@ -71,7 +71,7 @@ Estudante focada em **Programação Competitiva** e **Ciência da Computação**
 <br />
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/kelykds/kelykds/output/github-readme-activity-graph.svg" alt="Activity Graph" />
+ <img src="https://ghchart.rshah.org/FFFFFF/kelykds" alt="Kely's Github Contributions" />
 </div>
 
 ---
