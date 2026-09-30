@@ -22,7 +22,7 @@
 
 Estudante focada em **Programação Competitiva** e **Ciência da Computação**.
 
-- Treinamento para olimpíadas de informática e resolução de problemas analíticos.
+- Treinamento para olimpíadas e resolução de problemas analíticos.
 - Aprofundar conhecimentos em teoria dos grafos, programação dinâmica e sistemas.
 
 ---
